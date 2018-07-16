@@ -1,11 +1,11 @@
 @media (min-width: 500px){
-  body{
-    background:black;
+  h2{
+    Connect to people in different ways
   }
 }
 @media (max-width: 499px){
-  body{
-    background:black;
+  h2{
+    Connect to people
   }
 }
   p{
@@ -52,7 +52,4 @@
   button:hover{
     color: black;
     background-color: grey;
-  }
-  .bold{
-    color: white;
   }

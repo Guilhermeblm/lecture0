@@ -37,8 +37,14 @@ body{
     padding: 5px;
   }
   button{
-    shape-outside:
+    width: 150px;
     color: gray;
+    background-color: white;
+    border-style: ridge;
+  }
+  button:hover{
+    color: black;
+    background-color: grey;
   }
   .bold{
     color: white;

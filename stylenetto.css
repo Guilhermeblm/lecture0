@@ -1,11 +1,11 @@
 @media (min-width: 500px){
   body{
-    background:black;
+    background:red;
   }
 }
-@media (max-width: 10px){
+@media (max-width: 499px){
   body{
-    background:red;
+    background:black;
   }
 }
   p{

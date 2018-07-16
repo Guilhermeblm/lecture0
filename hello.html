@@ -2,23 +2,30 @@
 <html>
   <head>
     <title>Netto</title>
+    <link rel="stylesheet" href="stylenetto.css">
   </head>
   <body>
-    <img src="lecture0/netto.001.jpeg" width="30%" alt="netto">
+    <div id="foto">
+      <img src="lecture0/netto.001.jpeg" width="30%" alt="netto">
+    </div>
     <h1>Welcome to Netto</h1>
-    <h2>Connect to people in different ways</h2>
-    <ul>
-      <li>Logon</li>
+    <h2>Connect to <span class="bold">people</span> in different ways</h2>
+      <p>Logon</p>
       <form>
         <input type="text" placeholder="Given Name" name="Given name"><br/>
         <input type="text" placeholder="Surname" name="Surname"><br/>
         <input type="text" placeholder="e-mail" name="e-mail"><br/>
         <input type="text" placeholder="Repeat e-mail" name="repeat e-mail"><br/>
+        <input type="text" placeholder="Password" name="password"><br/>
+        <div id="butoes">
+                  <button type="submit" value="submit">Submit!</button>
+        </div>
+      </form>
+      <p>Login</p>
+      <form>
+        <input type="text" placeholder="e-mail" name="e-mail"><br/>
+        <input type="text" placeholder="Password" name="password"><br/>
         <button type="submit" value="submit">Submit!</button>
       </form>
-    </ul>
-    <ul>
-      <li>Login</li>
-    </ul>
   </body>
 </html>

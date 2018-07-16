@@ -1,11 +1,13 @@
 @media (min-width: 500px){
   h2{
     Connect to people in different ways
+    color: white;
   }
 }
 @media (max-width: 499px){
   h2{
     Connect to people
+    color: white;
   }
 }
   p{

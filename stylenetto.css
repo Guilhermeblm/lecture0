@@ -1,5 +1,12 @@
-body{
-  background:black;
+@media (min-width: 500px){
+  body{
+    background:black;
+  }
+}
+@media (max-width: 499px){
+  body{
+    background:red;
+  }
 }
   p{
     color: white;

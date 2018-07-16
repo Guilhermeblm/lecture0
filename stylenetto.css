@@ -1,15 +1,4 @@
-@media (min-width: 1000px){
-  h2::before{
-    content: "Connect to people in different ways";
-    color: white;
-  }
-}
-@media (max-width: 999px){
-  h2::before{
-    content: "Connect to people";
-    color: white;
-  }
-}
+
   p{
     color: white;
     text-align: center;
@@ -35,7 +24,6 @@
   }
   #butoes{
     padding: 5px;
-    <button type="button" class="btn btn-primary">Primary</button>
   }
   img{
     display: block;

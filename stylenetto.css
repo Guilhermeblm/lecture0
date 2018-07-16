@@ -33,10 +33,10 @@
   input{
     text-align: center;
     width: 50%;
-    padding: 5px;
+    padding: 15px;
   }
   button{
-    width: 50%;
+    width: 20%;
     color: gray;
     background-color: white;
     border-style: ridge;

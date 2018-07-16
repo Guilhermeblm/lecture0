@@ -35,6 +35,7 @@
   }
   #butoes{
     padding: 5px;
+    <button type="button" class="btn btn-primary">Primary</button>
   }
   img{
     display: block;

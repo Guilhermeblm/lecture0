@@ -3,7 +3,7 @@
     background:black;
   }
 }
-@media (max-width: 499px){
+@media (max-width: 10px){
   body{
     background:red;
   }

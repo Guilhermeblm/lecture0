@@ -1,11 +1,11 @@
 @media (min-width: 500px){
-  h2::before{
+  h2{
     content: "Connect to people in different ways";
     color: white;
   }
 }
 @media (max-width: 499px){
-  h2::before{
+  h2{
     content: "Connect to people";
     color: white;
   }
